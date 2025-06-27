@@ -96,6 +96,16 @@ node_modules/
 # dotenv environment variables file
 .env
 
+# GitHub configuration (contains sensitive info)
+.github_config
+*.token
+.credentials
+
+# Upload scripts (local use only)
+upload_to_github.sh
+*_upload.sh
+deploy*.sh
+
 # Backup files
 *.bak
 *.backup
