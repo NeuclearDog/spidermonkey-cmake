@@ -1,3 +1,11 @@
+# Stargazers and forkers for this responsitory
+
+[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/NeuclearDog/spidermonkey-cmake)](https://github.com/NeuclearDog/spidermonkey-cmake/stargazers)
+
+[![Forkers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/forks/NeuclearDog/spidermonkey-cmake)](https://github.com/NeuclearDog/spidermonkey-cmake/network/members)
+
+
+
 # SpiderMonkey CMake Integration
 
 A complete CMake build system for Mozilla's SpiderMonkey JavaScript engine headers with working integration examples.
